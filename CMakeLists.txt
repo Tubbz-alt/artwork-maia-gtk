@@ -1,4 +1,4 @@
-project(breeze-gtk)
+project(maia-gtk)
 set(PROJECT_VERSION "5.6.90")
 set(PROJECT_VERSION_MAJOR 5)
 
@@ -21,7 +21,7 @@ set(directory_EXCLUDES
     PATTERN "assets.txt" EXCLUDE
 )
 
-add_subdirectory(Breeze-gtk)
+add_subdirectory(Maia-gtk)
 
 find_package(GTKEngine)
 
