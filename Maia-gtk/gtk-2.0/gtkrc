@@ -1,5 +1,5 @@
-# Theme:       Breeze-gtk
-# Description: Breeze theme for GTK+2.0
+# Theme:       Maia-gtk
+# Description: Maia theme for GTK+2.0
 
 gtk-color-scheme = "text_color:#182128"
 gtk-color-scheme = "base_color:#ffffff"
