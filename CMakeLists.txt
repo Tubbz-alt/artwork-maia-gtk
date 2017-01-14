@@ -22,6 +22,7 @@ set(directory_EXCLUDES
 )
 
 add_subdirectory(Maia-gtk)
+add_subdirectory(Maia-Dark-gtk)
 
 find_package(GTKEngine)
 
